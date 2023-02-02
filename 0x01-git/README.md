@@ -1,2 +1,2 @@
 program
-my program
+my git is good
